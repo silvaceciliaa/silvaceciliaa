@@ -1,5 +1,6 @@
-Hi, my name is Cecília 
-I'm learning C#, HTML, CSS and JavaScript 
-I'm 17
+### About Me
+- Hi, my name is Cecília 
+- I'm learning C#, HTML, CSS and JavaScript 
+- I'm 17
 
 
