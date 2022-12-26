@@ -3,7 +3,6 @@
 - I'm 17
 - I'm learning C#, HTML, CSS and JavaScript 
 - I'm currently working on [Patinhas que Ajudam](https://github.com/leticiagarz/doacao-doguinho)
-- I'm publicly committing to the [100DaysOfCode Challenge](https://www.100daysofcode.com/)
 
 ##
 
