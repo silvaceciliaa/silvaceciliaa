@@ -1,8 +1,8 @@
 ### About Me 🌱
 - Hi, my name is Cecília 
 - I'm 18
-- I'm learning C#, HTML, CSS and JavaScript 
-- I'm currently working on [POOcomAvatar](https://github.com/silvaceciliaa/POOcomAvatar)
+- I'm learning C#, Phyton, HTML, CSS and JavaScript 
+
 
 
    <a href="https://www.linkedin.com/in/cec%C3%ADlia-silva-65a480257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
