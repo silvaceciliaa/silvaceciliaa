@@ -10,7 +10,7 @@
 
 ##
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -26,7 +26,7 @@
 
 
 
-<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaceciliaa&show_icons=true&locale=en&layout=compact" alt="silvaceciliaa" /></p></br>
+<br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaceciliaa&show_icons=true&locale=en&layout=compact" alt="silvaceciliaa" /></p></br>
 
 
 
