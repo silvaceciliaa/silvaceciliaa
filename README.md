@@ -1,7 +1,8 @@
 ### About Me 🌱
 - Hi, my name is Cecília 
 - I'm 19
-- I'm learning Java, C#, and Phyton
+- I'm a Java Developer
+- Currently learning C#
 
 
 
